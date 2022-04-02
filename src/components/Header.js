@@ -6,7 +6,7 @@ const Header = () => {
   );
 }
 
-function App(props) {
+function App() {
   return (
     <>
       <Header />
